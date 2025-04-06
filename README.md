@@ -3,11 +3,11 @@
 This project explores and analyzes a Netflix dataset using Python, pandas, and data visualization libraries in a Jupyter Notebook. The goal is to uncover trends, insights, and patterns from Netflix's catalog of TV Shows and Movies.
 
 
-## 📁 File
+##  File
 
 - `Python_project_final.ipynb` — Main Jupyter Notebook containing all the data cleaning, analysis, and visualization steps.
 
-## 🚀 Run the Notebook Online
+##  Run the Notebook Online
 
 Click the badge below to run the notebook interactively on Binder (no setup needed):
 
@@ -15,7 +15,7 @@ Click the badge below to run the notebook interactively on Binder (no setup need
 
 > Replace `YOUR-USERNAME` with your GitHub username after uploading.
 
-## 📌 Features
+##  Features
 
 - Data Cleaning with Pandas
 - Handling missing values
@@ -23,13 +23,15 @@ Click the badge below to run the notebook interactively on Binder (no setup need
 - Creative data visualizations
 - Insights into content type, release year trends, genre distributions, etc.
 
-## 📊 Libraries Used
+##  Libraries Used
 
 - `pandas`
 - `matplotlib`
 - `seaborn`
+- `numpy`
+  
 
-## 🧠 Skills Demonstrated
+##  Skills Demonstrated
 
 - Data manipulation
 - Data visualization
@@ -38,7 +40,7 @@ Click the badge below to run the notebook interactively on Binder (no setup need
 
 ---
 
-## ✅ How to Use
+##  How to Use
 
 1. Click the **Binder** link above to run the notebook live.
 2. Or, download the `.ipynb` file and open it locally with Jupyter Notebook.
